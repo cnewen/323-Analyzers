@@ -1,0 +1,17 @@
+PUSHI 0
+POPM 2000
+PUSHI 15
+POPM 2001
+PUSHI 0
+POPM 2002
+PUSHI 2001
+PUSHI 2000
+ADD
+POPM 2002
+
+
+Symbol Table
+Identifer  Memory-Location Type
+num       2000       integer
+nu2m       2001       integer
+sum       2002       integer

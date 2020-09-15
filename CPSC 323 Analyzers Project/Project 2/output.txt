@@ -1,0 +1,31 @@
+Tokens      Lexemes
+OPERATOR = %
+OPERATOR = %
+Identifer = x
+OPERATOR = =
+Identifer = a
+OPERATOR = +
+Identifer = b
+SEPERATOR = ;
+Identifer = 
+Identifer = z
+OPERATOR = =
+Identifer = c
+OPERATOR = +
+Identifer = d
+SEPERATOR = ;
+Identifer = 
+Identifer = a
+OPERATOR = =
+Identifer = e
+OPERATOR = -
+Identifer = f
+SEPERATOR = ;
+Identifer = 
+Identifer = b
+OPERATOR = =
+Identifer = g
+OPERATOR = *
+Identifer = n
+SEPERATOR = ;
+Identifer = 
